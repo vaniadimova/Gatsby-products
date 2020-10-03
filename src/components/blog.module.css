@@ -1,0 +1,9 @@
+.page {
+    background: green;
+}
+.page h1 {
+    color: blueviolet;
+}
+.text {
+    text-transform: uppercase;
+}
