@@ -8,9 +8,7 @@ const blog = () => {
         <Layout>
             <div className={styles.page}>
             <h1>Blog Page</h1>
-            <p className={styles.text}>jsvbaf foah nvniohfg msnvlkb;
-                VOIrb nmnvkvb nvvnrinbv nvjjzbv vbjvbubv
-                vjkjb nvriufv bbkdbv </p>
+            <p className={styles.text}>Blog Sceleton in a making </p>
                 </div>
         </Layout>
     )
