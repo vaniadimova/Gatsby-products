@@ -8,7 +8,7 @@ export default () => (
   <Layout>
   
   <h1 style={{ color:"blue",textTransform:"uppercase"}}> Home Page</h1>
-  <p>today the weather is cold</p>
+  <p>this is home page/ to be edited further</p>
   <ExampleButton>click here</ExampleButton>
   
   </Layout>
